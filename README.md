@@ -7,7 +7,7 @@ The **Hospital Healthcare Analysis dashboard** provides a comprehensive view of 
 - **Power BI** for dashboard creation.
 
 ## Dataset Used
-<a href="https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/WA_Fn-UseC_-Telco-Customer-Churn.csv">Hospital patient records and healthcare service data</a>
+<a href="https://github.com/muhdshahan/hospital-healthcare-dashboard/tree/main/Datasets">Hospital patient records and healthcare service data</a>
 
 ## Key Metrics
 - **Total Patients**: Displays the overall number of patients admitted and treated.
@@ -32,19 +32,19 @@ The data for this analysis was sourced, cleaned, and modeled in Power BI. Key fi
 - **Treatment Effectiveness**: Patients undergoing scheduled procedures tend to have a higher successful discharge rate compared to emergency admissions.
 
 ## Image Preview
-- **Customer Segmentation**
+- **Healthcare Metrics**
   
-![Dashboard View](https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/Image%20view/one.png)
+![Dashboard View](https://github.com/muhdshahan/hospital-healthcare-dashboard/blob/main/View/Screenshot%20(735).png)
 
 
-- **Churn Analysis**
+- **Financial Overivew**
   
-![Dashboard View](https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/Image%20view/two.png)
+![Dashboard View](https://github.com/muhdshahan/hospital-healthcare-dashboard/blob/main/View/Screenshot%20(736).png)
 
 
-- **Revenue & Service Insights**
+- **Patient Insights**
   
-![Dashboard View](https://github.com/muhdshahan/Customer-Churn-Dashboard/blob/main/Image%20view/three.png)
+![Dashboard View](https://github.com/muhdshahan/hospital-healthcare-dashboard/blob/main/View/Screenshot%20(737).png)
 
 ## Conclusion
 This dashboard provides actionable insights into hospital operations and patient care trends, enabling healthcare administrators to optimize resources and enhance patient satisfaction. The focus on senior citizen care, emergency services, and department-wise performance highlights critical areas for improvement. By addressing key factors such as treatment efficiency, patient engagement, and financial sustainability, hospitals can improve healthcare delivery and operational effectiveness.
